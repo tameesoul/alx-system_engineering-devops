@@ -1,0 +1,13 @@
+total 44
+-rwxrwxrwx 1 root root 32 Jul 10 07:17 0-hello_world
+-rwxrwxrwx 1 root root 28 Jul 10 07:48 1-confused_smiley
+-rwxrwxrwx 1 root root 29 Jul 10 07:56 2-hellofile
+-rwxrwxrwx 1 root root 36 Jul 10 08:01 3-twofiles
+-rwxrwxrwx 1 root root 35 Jul 10 08:07 4-lastlines
+-rwxrwxrwx 1 root root 35 Jul 10 08:09 5-firstlines
+-rwxrwxrwx 1 root root 46 Jul 10 08:20 6-third_line
+-rwxrwxrwx 1 root root 88 Jul 10 08:54 7-file
+-rwxrwxrwx 1 root root 35 Jul 10 09:36 8-cwd_state
+-rw-r--r-- 1 root root 12 Jul 10 08:54 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  0 Jul 10 09:36 ls_cwd_content
+-rw-r--r-- 1 root root 16 Jul 10 07:23 README.md
